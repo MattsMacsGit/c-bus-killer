@@ -1,0 +1,19 @@
+[
+  {"name": "laundrybalcony", "dimmable": false},
+  {"name": "entry", "dimmable": false},
+  {"name": "bikeroom", "dimmable": false},
+  {"name": "pendant", "dimmable": true},
+  {"name": "kitchen", "dimmable": false},
+  {"name": "livingroom", "dimmable": false},
+  {"name": "mainbedroom", "dimmable": false},
+  {"name": "bedroom2", "dimmable": false},
+  {"name": "bedroom3", "dimmable": false},
+  {"name": "livingroomfans", "dimmable": false},
+  {"name": "mainbedroomfan", "dimmable": false},
+  {"name": "peepalace", "dimmable": false},
+  {"name": "ensuite", "dimmable": false},
+  {"name": "bathroom", "dimmable": false},
+  {"name": "laundry", "dimmable": false},
+  {"name": "wir", "dimmable": false},
+  {"name": "spareloo", "dimmable": false}
+]
