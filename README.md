@@ -107,4 +107,6 @@ MIT License — See [LICENSE](LICENSE) file.
 Built by Matt (with a lot of swearing at C-Bus).  
 Pull requests welcome if you make it saner!
 
+Original project created by @MattsMacsGit — if you fork or use ideas, please credit the source.
+
 Happy building — and good luck escaping proprietary lighting purgatory.
